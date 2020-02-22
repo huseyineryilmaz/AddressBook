@@ -1,0 +1,24 @@
+insert#Taner DANISMAN#123 Sokak No:23/A Bornova#Izmir#35100#02323731111
+insert#Ayse ERCAN#215 Sokak No:24/B Konak#Izmir#35500#023238799999
+insert#Ali ALAN#15 Sokak No:10 Konak#Izmir#35500#02323534444
+insert#Burak ISBILIR#749 Sokak No:28/A Geyve#Sakarya#37999#2425769864
+insert#Huseyin ERYILMAZ#227 Sokak No:27/B Kepez#Antalya#070000#02348572564
+insert#Omer Faruk#4029 Sokak No:29/B Güzelbahce#Izmir#353535#0229402900
+insert#Sahin Mengefin#2030 Sokak No:30 Urla#Izmir#0354030#024030204952
+insert#Furkan Saricam#4031 Sokak No:31 Cigli#Izmir#0354031#2342342311
+insert#Muhammet Akkas#2342 Sokak No:34 Uskudar#IStanbul#34000#02340934572
+insert#Meltem Sevinc#847 Sokak No:27/B merkez#Manisa#352355#05468272959
+insert#Ozge Kara#Gursu Caddesi No:43/3 Nazilli#Aydin#324433#054847591991
+delete#Taner DANISMAN
+show#Huseyin ERYILMAZ
+show#Omer Faruk
+delete#Furkan Saricam
+update#Ozge Kara#Gursu Caddesi No:43/3 Nazilli#AydinUPDATED#324433#054847591991
+update#Omer Faruk#4029 Sokak No:29/B Güzelbahce#IzmirUPDATED#353535#0229402900
+delete#Sahin Mengefin
+update#Burak ISBILIR#749 Sokak No:28/A Geyve#SakaryaUPDATED#37999#2425769864
+show#Ozge Kara
+show#Furkan Saricam
+show#Taner DANISMAN
+
+
